@@ -1,6 +1,8 @@
 
 # Movie Genre Classification Using NLP
 
+Author : [SyedFurqanAli](https://github.com/SyedFurqanAli540702)
+
 ## 📌 Project Description  
 This project focuses on **Movie Genre Classification** using **Natural Language Processing (NLP)** techniques. The model automatically predicts the genres of movies based on their plot summaries from the IMDb dataset. It is a **multi-label classification task** where each movie can belong to one or more genres like Action, Comedy, Drama, Thriller, etc.
 
